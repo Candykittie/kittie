@@ -1,5 +1,5 @@
 # kittie
-this is about the human  feelings images clkassification using tensorflow model
+this is about the human  feelings images classification using tensorflow model
 this project includes various python packages
 tensorflow
 face recognition
